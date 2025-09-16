@@ -5,8 +5,6 @@ Render 3D OBJ model files directly in the Windows Console with color output, usi
 🎥 **Demo Video**  
 [Watch on YouTube](https://youtu.be/vxZlHLDut2k)
 
----
-
 ## What We Made
 
 ### Console Monitor Class
@@ -40,13 +38,9 @@ Render 3D OBJ model files directly in the Windows Console with color output, usi
 - Currently, only diffuse texture colors are used (lighting not implemented).
 - Parallelized on the GPU using CUDA.
 
----
-
 ## Limitations
 - Vertex and fragment shaders are not programmable—only predefined operations are supported.
 - Lighting calculations are not yet implemented, so only diffuse textures are displayed.
-
----
 
 ## 📁 Project Structure
 
